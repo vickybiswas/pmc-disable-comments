@@ -3,7 +3,7 @@
 Plugin Name: PMC Disable Comments
 Plugin URI: https://github.com/vickybiswas/pmc-disable-comments
 Description: PMC Disable allows you to switch default commenting on/off for individual post types.
-Version: 1.0
+Version: 1.0.1
 Author: Vicky Biswas
 Author URI: http://www.pmc.com/
 License: GPLv2
